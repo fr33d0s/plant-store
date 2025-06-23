@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/plant-store/static/css/main.f39bf445.css",
-    "main.js": "/plant-store/static/js/main.81c75e80.js",
+    "main.js": "/plant-store/static/js/main.16df2a54.js",
     "static/js/453.f8bd1d58.chunk.js": "/plant-store/static/js/453.f8bd1d58.chunk.js",
     "index.html": "/plant-store/index.html",
     "main.f39bf445.css.map": "/plant-store/static/css/main.f39bf445.css.map",
-    "main.81c75e80.js.map": "/plant-store/static/js/main.81c75e80.js.map",
+    "main.16df2a54.js.map": "/plant-store/static/js/main.16df2a54.js.map",
     "453.f8bd1d58.chunk.js.map": "/plant-store/static/js/453.f8bd1d58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f39bf445.css",
-    "static/js/main.81c75e80.js"
+    "static/js/main.16df2a54.js"
   ]
 }
