@@ -2,7 +2,7 @@
   "name": "plant-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ozgur.github.io/plant-store",
+  "homepage": "https://fr33d0s.github.io/plant-store",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/dom": "^10.4.0",
